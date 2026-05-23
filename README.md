@@ -8,4 +8,4 @@ Nenhuma funcionalidade de banco de dados ou renderização de tela foi implement
 🟢 Cadastrar (Create): Inserção de novos links com validação nativa de URL.
 🔵 Listar (Read): Leitura dinâmica do banco de dados e listagem na interface.
 🟡 Editar (Update): Recuperação de dados antigos e atualização de registros via ID.
-🔴 Deletar (Delete): Exclusão rápida e segura de links do banco de dados.
+🔴 Deletar (Delete): Exclusão rápida e segura de links do banco de dados
